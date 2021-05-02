@@ -447,7 +447,7 @@ body.x-navbar-fixed-left-active {
     min-height: 90px;
 }
 .x-brand {
-    margin-top: 90px;
+    margin-top: 10px;
     font-family: "Lato", sans-serif;
     font-size: 30px;
     font-style: normal;
