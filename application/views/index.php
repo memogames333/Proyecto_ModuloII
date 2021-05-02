@@ -22,7 +22,7 @@
 											<div class="e89-18 x-text x-text-headline">
 												<div class="x-text-content">
 													<div class="x-text-content-text">
-														<h2 class="x-text-content-text-primary">Taqueria Los Coyotes. Los mejores burritos, tacos, nachos en San Miguel, El Salvador.</h2></div>
+														<h2 class="x-text-content-text-primary">Taqueria Don Sosa .</h2></div>
 												</div>
 											</div>
 
