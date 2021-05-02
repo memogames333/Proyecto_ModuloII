@@ -21,7 +21,7 @@
                         <div class="e24-4 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h4 class="x-text-content-text-primary" style="font-size:35px;">Taqueria Los Coyotes Wins 2012 Talk of the Town Award for Customer Satisfaction</h4>
+                                 <h4 class="x-text-content-text-primary" style="font-size:35px;">Taqueria Don Sosa S.A.</h4>
                                  <div class="e89-6 x-row x-container max width">
                  									<div class="x-row-inner">
                  										<div class="e89-10 x-col" style="width:100%">
@@ -66,7 +66,7 @@
                               </div>
                            </div>
                         </div> -->
-                        <div class="e24-9 x-text" style="text-align:justify">
+                        <!--<div class="e24-9 x-text" style="text-align:justify">
                            <h5 class="x-text-content-text-primary">Taqueria Los Coyotes wins high marks from customers for its excellent customer service, garnering it a Talk of the Town Customer Satisfaction Award.</h5>
                         </div>
                         <div class="e24-9 x-text" style="text-align:justify">
@@ -89,7 +89,7 @@
                         </div>
                         <div class="e24-9 x-text" style="text-align:justify;     color: #f19533;">
                             If you want to know more about this report, click the images below to see more information.
-                        </div>
+                        </div>-->
                         <style>
                             /* options with image */
                             .opciones {
@@ -108,8 +108,8 @@
                                 /* margin:3px; */
                             }
                         </style>
-                        <div class="e24-9 x-text opciones" style="text-align:justify; color: #f19533; display:inline">
-                            <!-- <div class="" style="width:100%; display: inline;"> -->
+                        <!--<div class="e24-9 x-text opciones" style="text-align:justify; color: #f19533; display:inline">
+                            <div class="" style="width:100%; display: inline;">
                               <div class="opcion" style=" width: 24.6%">
                                 <a href="http://www.prlog.org/11938970-taqueria-los-coyotes-wins-2012-talk-of-the-town-award-for-customer-satisfaction.html" target="_blank"><img alt="Image" src="assets/img/press/press1.jpg" style="width:100%; height: 60px; margin:0px auto;" ></a>
                               </div>
@@ -122,8 +122,8 @@
                               <div class="opcion" style=" width: 24.6%">
                                 <a href="http://www.onlineprnews.com/news/249356-1343790040-taqueria-los-coyotes-wins-2012-talk-of-the-town-award-for-customer-satisfaction.html" target="_blank"><img alt="Image" src="assets/img/press/press4.jpg" style="width:100%; height: 60px; margin:0px auto;" ></a>
                               </div>
-                            <!-- </div> -->
-                        </div>
+                             </div>
+                        </div>-->
                      </div>
                   </div>
                </div>
