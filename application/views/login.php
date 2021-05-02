@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-echo md5("123456");
+//echo md5("123456");
 ?>
 <!DOCTYPE html>
 <html>
