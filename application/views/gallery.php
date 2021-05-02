@@ -1,51 +1,32 @@
 <div class="x-main full" role="main">
-
-
 				<article id="post-89" class="post-89 page type-page status-publish hentry no-post-thumbnail">
-
-
 					<div class="entry-content content">
-
-
 						<div id="cs-content" class="cs-content">
-
-
 							<div class="e89-42 x-section">
-
 								<div class="e89-43 x-row x-container max width">
 									<div class="x-row-inner">
-
 										<div class="e89-44 x-col">
-
 											<div class="e89-45 x-text x-text-headline">
 												<div class="x-text-content">
 													<div class="x-text-content-text">
 														<h3 class="x-text-content-text-primary"><span>Especiales</span></h3></div>
 												</div>
 											</div>
-
 											<div class="e89-46 x-text">
 												Platillos especiales.</div>
 										</div>
 									</div>
 								</div>
-
 								<div class="e89-47 x-row x-container max width">
 									<div class="x-row-inner">
-
 										<div class="e89-48 x-col">
-
 											<div class="e89-49 x-card is-flip-right has-not-flipped" data-x-element="card">
 												<div class="x-card-faces">
 													<div class="x-card-face is-front">
-
 														<div class="e89-49 x-text x-text-headline">
 															<div class="x-text-content">
 																<span class="x-graphic" aria-hidden="true">
-
-
 																<!-- <i class="x-icon x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-o="&#xf3d1;" ></i> -->
-
 																</span>
 																<div class="x-text-content-text">
 																	<img src="assets/img/gallery/tacos_acorazados.jpg" alt="" style="width:300px; height:230px;">
@@ -55,7 +36,6 @@
 														</div>
 													</div>
 													<div class="x-card-face is-back">
-
 														<div class="e89-49 x-text x-text-headline">
 															<div class="x-text-content">
 																<div class="x-text-content-text">
@@ -64,8 +44,6 @@
 														</div>
 
 														<a class="e89-49 x-anchor x-anchor-button" tabindex="0" href="<?=base_url();?>">
-
-
 															<div class="x-anchor-content">
 																<div class="x-anchor-text"><span class="x-anchor-text-primary">Ver Menu</span></div>
 															</div>
@@ -76,20 +54,14 @@
 
 											<hr class="e89-50 x-line  x-hide-lg x-hide-md x-hide-xl">
 										</div>
-
 										<div class="e89-48 x-col">
-
 											<div class="e89-49 x-card is-flip-right has-not-flipped" data-x-element="card">
 												<div class="x-card-faces">
 													<div class="x-card-face is-front">
-
 														<div class="e89-49 x-text x-text-headline">
 															<div class="x-text-content">
 																<span class="x-graphic" aria-hidden="true">
-
-
 																<!-- <i class="x-icon x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-o="&#xf3d1;" ></i> -->
-
 																</span>
 																<div class="x-text-content-text">
 																	<img src="assets/img/gallery/tacos_barbacoa.jpg" alt="" style="width:300px; height:230px;">
@@ -99,14 +71,12 @@
 														</div>
 													</div>
 													<div class="x-card-face is-back">
-
 														<div class="e89-49 x-text x-text-headline">
 															<div class="x-text-content">
 																<div class="x-text-content-text">
 																	<h1 class="x-text-content-text-primary">Tacos Barbacoa</h1><span class="x-text-content-text-subheadline">Promociones disponibles los dias viernes y sabado!</span></div>
 															</div>
 														</div>
-
 														<a class="e89-49 x-anchor x-anchor-button" tabindex="0" href="<?=base_url();?>">
 															<div class="x-anchor-content">
 																<div class="x-anchor-text"><span class="x-anchor-text-primary">Ver Menu</span></div>
@@ -115,24 +85,17 @@
 													</div>
 												</div>
 											</div>
-
 											<hr class="e89-50 x-line  x-hide-lg x-hide-md x-hide-xl">
 										</div>
-
 										<!-- Siguiente -->
 										<div class="e89-48 x-col">
-
 											<div class="e89-49 x-card is-flip-right has-not-flipped" data-x-element="card">
 												<div class="x-card-faces">
 													<div class="x-card-face is-front">
-
 														<div class="e89-49 x-text x-text-headline">
 															<div class="x-text-content">
 																<span class="x-graphic" aria-hidden="true">
-
-
 																<!-- <i class="x-icon x-graphic-icon x-graphic-primary" aria-hidden="true" data-x-icon-o="&#xf3d1;" ></i> -->
-
 																</span>
 																<div class="x-text-content-text">
 																	<img src="assets/img/gallery/tacos_cochinita.jpg" alt="" style="width:300px; height:230px;">
@@ -142,28 +105,20 @@
 														</div>
 													</div>
 													<div class="x-card-face is-back">
-
 														<div class="e89-49 x-text x-text-headline">
 															<div class="x-text-content">
 																<div class="x-text-content-text">
 																	<h1 class="x-text-content-text-primary">Tacos cochinita</h1><span class="x-text-content-text-subheadline">Promociones disponibles los dias viernes y sabado!</span></div>
 															</div>
 														</div>
-
 														<a class="e89-49 x-anchor x-anchor-button" tabindex="0" href="<?=base_url();?>">
-
-
 															<div class="x-anchor-content">
 																<div class="x-anchor-text"><span class="x-anchor-text-primary">See Menu</span></div>
 															</div>
-
-
-
 														</a>
 													</div>
 												</div>
 											</div>
-
 											<hr class="e89-50 x-line  x-hide-lg x-hide-md x-hide-xl">
 										</div>
 
