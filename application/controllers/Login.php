@@ -53,7 +53,7 @@ class Login extends CI_Controller{
 			else{
 				$data["type"] = "error";
 				$data["title"] = "Error";
-				$data["message"] = "Contraseña incorrecta!";
+				$data["message"] = "Contraseña ingresada es incorrecta!";
 			}
 		}else{
 			$data["type"] = "error";
