@@ -1,0 +1,62 @@
+.my-custom-scrollbar {
+position: relative;
+height: 300px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th
+{
+background-color:#cfd8dc;
+color:#212121;
+}
+/*
+th:first-child, td:first-child
+{
+  position:sticky;
+  left:0px;
+
+}*/
+.highrow {
+   border-top: 2px solid #212121;
+}
+.total_final {
+font-weight: bold;
+}
+
+.select2-close-mask{
+    z-index: 2099;
+}
+.select2-dropdown{
+    z-index: 3051;
+}
+.big-font{
+  color: #212121;
+      font-size: 14px;
+      font-weight: 700;
+      text-align: center;
+      margin: 0 0 6px 0;
+  }
+  .big-font-title{
+    color: #212121;
+        font-size: 24px;
+        font-weight: 700;
+        text-align: center;
+        margin: 0 0 6px 0;
+    }
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
