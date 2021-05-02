@@ -38,21 +38,22 @@
               </style>
               <nav class="x-nav-wrap desktop" role="navigation">
                 <ul id="menu-main-menu" class="x-nav">
-                  <li id="menu-item-65" class='<?php if($clave == 0){ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-89 current_page_item menu-item-97";}else{ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-96";}?>'>
                     <?php
                     if($this->session->logged_in)
                     {
                       ?>
-                      <a href="<?php echo base_url("inicio") ?>" target="_blank"><span><?=$this->session->nombre;?></span></a>
+                      <li id="menu-item-65" class='<?php if($clave == 0){ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-89 current_page_item menu-item-97";}else{ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-96";}?>'><a href="<?php echo base_url("inicio") ?>" target="_blank"><span><?=$this->session->nombre;?></span></a></li>
+                      <li><a href="<?php echo base_url("reservaciones/admin") ?>" target="_blank">Admin Reservaciones</a></li>
+                      <li><a href="<?php echo base_url("logout")?>"><span>Salir</span></a></li>
                       <?php
                     }
                     else {
                       ?>
-                      <a href="<?php echo base_url("login") ?>" target="_blank"><span>Iniciar Sesion</span></a>
+                      <li id="menu-item-65" class='<?php if($clave == 0){ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-89 current_page_item menu-item-97";}else{ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-96";}?>'><a href="<?php echo base_url("login") ?>" target="_blank"><span>Iniciar Sesion</span></a></li>
                       <?php
                     }
                      ?>
-                  </li>
+
                   <li id="menu-item-97" class='<?php if($clave == 1){ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-89 current_page_item menu-item-97";}else{ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-96";}?>'><a href="<?php echo base_url("inicio") ?>" aria-current="page"><span>Inicio</span></a></li>
                   <li id="menu-item-98" class='<?php if($clave == 8){ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-89 current_page_item menu-item-97";}else{ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-96";}?>'><a href="<?php echo base_url("reservaciones") ?>" aria-current="page"><span>Reservaciones</span></a></li>
                   <li id="menu-item-96" class='<?php if($clave == 2){ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-89 current_page_item menu-item-97";}else{ echo "menu-item menu-item-type-post_type menu-item-object-page menu-item-96";}?>'><a href="<?php echo base_url("gallery")?>"><span>Galeria</span></a></li>
