@@ -43,5 +43,5 @@ $(document).ready(function(){
 });
 
 function reload() {
-	location.href = base_url+"inicio";
+	location.href = base_url+"inicioo";
 }
