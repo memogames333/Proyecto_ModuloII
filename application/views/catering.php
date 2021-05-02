@@ -3165,7 +3165,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                     <div class="e26-9 x-text x-text-headline" >
                        <div class="x-text-content">
                           <div class="x-text-content-text">
-                             <h3 class="x-text-content-text-primary"><span>Catering Service per tray.</span></h3>
+                             <h3 class="x-text-content-text-primary"><span>Servicio de comidas por bandeja</span></h3>
                           </div>
                        </div>
                     </div>
@@ -3186,31 +3186,31 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Meats</h3>
+                                 <h3 class="x-text-content-text-primary">Carnes</h3>
                               </div>
                            </div>
                         </div>
                         <div class="e30-18 x-text" style="display:inline!important">
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Beef fajitas</h5>
+                              <h5 class="man">-fajitas de res</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $99.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $49.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Chicken Fajitas</h5>
+                              <h5 class="man">-Fajitas de pollo</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $99.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $49.00 </span>
                             </div>
                           </div>
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Grilled Chicken</h5>
+                              <h5 class="man">-Pollo a la brasa</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $99.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $49.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Steaks</h5>
+                              <h5 class="man">-Filete</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $99.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $49.00 </span>
                             </div>
@@ -3222,7 +3222,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $49.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Pork Carnitas</h5>
+                              <h5 class="man">-Carnitas de cerdo</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $99.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $49.00 </span>
                             </div>
@@ -3245,7 +3245,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Rice</h3>
+                                 <h3 class="x-text-content-text-primary">Arroz</h3>
                               </div>
                            </div>
                         </div>
@@ -3276,43 +3276,43 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Sauses</h3>
+                                 <h3 class="x-text-content-text-primary">Salsas</h3>
                               </div>
                            </div>
                         </div>
                         <div class="e30-18 x-text" style="display:inline!important">
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Chunky Spice</h5>
+                              <h5 class="man">-Especias gruesas</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Green</h5>
+                              <h5 class="man">-Salsa Verde</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
                           </div>
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Mango Sauce</h5>
+                              <h5 class="man">-Salsa de Mango</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $70.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $35.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Chunky Mile</h5>
+                              <h5 class="man">-Solida</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
                           </div>
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Roasted Roma Tomatoe Sauce</h5>
+                              <h5 class="man">-Salsa de tomate romana</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Chipotle Sauce</h5>
+                              <h5 class="man">-Salsa Chipotle</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
@@ -3335,19 +3335,19 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Chicken Wings</h3>
+                                 <h3 class="x-text-content-text-primary">Alas de pollo</h3>
                               </div>
                            </div>
                         </div>
                         <div class="e30-18 x-text" style="display:inline!important">
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Buffalo Wings</h5>
+                              <h5 class="man">-Alitas Buffalo</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $80.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $40.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-BBQ Wings</h5>
+                              <h5 class="man">-Alitas BBQ</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $80.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $40.00 </span>
                             </div>
@@ -3370,7 +3370,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Buffalo Wings</h3>
+                                 <h3 class="x-text-content-text-primary">Alitas Buffalo</h3>
                               </div>
                            </div>
                         </div>
@@ -3401,7 +3401,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">(Iceber) Salads</h3>
+                                 <h3 class="x-text-content-text-primary">Ensaladas frescas</h3>
                               </div>
                            </div>
                         </div>
@@ -3439,24 +3439,24 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-18 x-text" style="display:inline!important">
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Beef</h5>
+                              <h5 class="man">-Res</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $76.00  </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $36.00  </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Chicken</h5>
+                              <h5 class="man">-Pollo</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $76.00  </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $36.00  </span>
                             </div>
                           </div>
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline" class="right">
-                              <h5 class="man">-Cheese</h5>
+                              <h5 class="man">-Queso</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $76.00  </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $36.00  </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Pork</h5>
+                              <h5 class="man">-Cerdo</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $76.00  </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $36.00  </span>
                             </div>
@@ -3479,7 +3479,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Chips</h3>
+                                 <h3 class="x-text-content-text-primary">Papas fritas</h3>
                               </div>
                            </div>
                         </div>
@@ -3522,7 +3522,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Refried</h5>
+                              <h5 class="man">-Refritos</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
@@ -3534,7 +3534,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $36.00  </span>
                             </div> -->
                             <div style="width:50%; display:inline">
-                              <h5 class="man">-Black</h5>
+                              <h5 class="man">-Negros</h5>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span>
                             </div>
@@ -3557,14 +3557,14 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Fruit Salad</h3>
+                                 <h3 class="x-text-content-text-primary">Ensalada de frutas</h3>
                               </div>
                            </div>
                         </div>
                         <div class="e30-18 x-text" style="display:inline!important">
                           <div style="display:inline!important;">
                             <div style="width:50%; display:inline">
-                              <h5 class="man">Price $50.00  (16" round tray)</h5>
+                              <h5 class="man">Price $50.00  (16" bandeja redonda)</h5>
                               <!-- <h5 class="man">Porcion $30.00 </h5> -->
                               <!-- <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Tamaño completo $60.00 </span><br>
                               <span class="">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Porcion $30.00 </span> -->
@@ -3619,7 +3619,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                         <div class="e30-17 x-text x-text-headline" >
                            <div class="x-text-content">
                               <div class="x-text-content-text">
-                                 <h3 class="x-text-content-text-primary">Shrimps</h3>
+                                 <h3 class="x-text-content-text-primary">Camarones</h3>
                               </div>
                            </div>
                         </div>
@@ -3691,9 +3691,9 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                               <span class="x-recent-posts-date" style="color:#fff">4 Flautas</span>
                               <span class="x-recent-posts-date" style="color:#fff">4 Enchiladas</span>
                               <span class="x-recent-posts-date" style="color:#fff">3 Tamales</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Buffalo Wings Ranch</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Alitas bufalo rancheras</span>
                               <span class="x-recent-posts-date" style="color:#fff">Guacamole</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Salsa and S/Cream</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Salsa y crema</span>
                             </div>
                           </div>
                         </article>
@@ -3709,7 +3709,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                               <span class="x-recent-posts-date" style="color:#fff">4 Flautas</span>
                               <span class="x-recent-posts-date" style="color:#fff">4 Enchiladas</span>
                               <span class="x-recent-posts-date" style="color:#fff">3 Tamales</span>
-                              <span class="x-recent-posts-date" style="color:#fff">S/Cream Salsa</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Crema salsa</span>
                               <span class="x-recent-posts-date" style="color:#fff">Guacamole</span>
                               <span class="x-recent-posts-date" style="color:#fff">&nbsp;&nbsp;&nbsp;&nbsp;</span>
                             </div>
@@ -3726,7 +3726,7 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                               <span class="x-recent-posts-date" style="color:#fff">4 Flautas</span>
                               <span class="x-recent-posts-date" style="color:#fff">3 Enchiladas</span>
                               <span class="x-recent-posts-date" style="color:#fff">2 Tamales</span>
-                              <span class="x-recent-posts-date" style="color:#fff">S/Cream Salsa</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Crema salsa</span>
                               <span class="x-recent-posts-date" style="color:#fff">Guacamole</span>
                               <span class="x-recent-posts-date" style="color:#fff">&nbsp;&nbsp;&nbsp;&nbsp;</span>
                             </div>
@@ -3742,14 +3742,14 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                           <div class="entry-wrap">
                             <div class="x-recent-posts-img" style="background-image: url(assets/img/platos/plato4.jpg);"></div>
                             <div class="x-recent-posts-content">
-                              <h2 class="h-recent-posts">Large / Grande</h2>
+                              <h2 class="h-recent-posts">Grande</h2>
                               <h2 class="h-recent-posts">$23.99</h2>
                               <span class="x-recent-posts-date" style="color:#fff">Flautas</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Buffalo Wings</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Ranch</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Alitas Buffalo</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Rancheras</span>
                               <span class="x-recent-posts-date" style="color:#fff">Salsa</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Chips</span>
-                              <span class="x-recent-posts-date" style="color:#fff">S/Cream</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Papas fritas</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Crema</span>
                               <span class="x-recent-posts-date" style="color:#fff">Guacamole</span>
                             </div>
                           </div>
@@ -3760,14 +3760,14 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                           <div class="entry-wrap">
                             <div class="x-recent-posts-img" style="background-image: url(assets/img/platos/plato5.jpg);"></div>
                             <div class="x-recent-posts-content">
-                              <h2 class="h-recent-posts">Medium / Mediano</h2>
+                              <h2 class="h-recent-posts">Mediano</h2>
                               <h2 class="h-recent-posts">$17.99</h2>
                               <span class="x-recent-posts-date" style="color:#fff">Flautas</span>
                               <span class="x-recent-posts-date" style="color:#fff">Buffalo Wings</span>
                               <span class="x-recent-posts-date" style="color:#fff">Ranch</span>
                               <span class="x-recent-posts-date" style="color:#fff">Salsa</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Chips</span>
-                              <span class="x-recent-posts-date" style="color:#fff">S/Cream</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Papas fritas</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Crema</span>
                               <span class="x-recent-posts-date" style="color:#fff">Guacamole</span>
                             </div>
                           </div>
@@ -3778,14 +3778,14 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                           <div class="entry-wrap">
                             <div class="x-recent-posts-img" style="background-image: url(assets/img/platos/plato6.jpg);"></div>
                             <div class="x-recent-posts-content">
-                              <h2 class="h-recent-posts">Small / Pequeño</h2>
+                              <h2 class="h-recent-posts">Pequeño</h2>
                               <h2 class="h-recent-posts">$12.99</h2>
                               <span class="x-recent-posts-date" style="color:#fff">Flautas</span>
                               <span class="x-recent-posts-date" style="color:#fff">Buffalo Wings</span>
                               <span class="x-recent-posts-date" style="color:#fff">Ranch</span>
                               <span class="x-recent-posts-date" style="color:#fff">Salsa</span>
-                              <span class="x-recent-posts-date" style="color:#fff">Chips</span>
-                              <span class="x-recent-posts-date" style="color:#fff">S/Cream</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Papas fritas</span>
+                              <span class="x-recent-posts-date" style="color:#fff">Crema</span>
                               <span class="x-recent-posts-date" style="color:#fff">Guacamole</span>
                             </div>
                           </div>
