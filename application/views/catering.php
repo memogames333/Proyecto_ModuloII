@@ -519,7 +519,7 @@ body.x-navbar-fixed-right-active {
 .x-widgetbar {
   left: 0;
   right: 0;
-}
+ }
 }
 
 .x-colophon.top,
@@ -1253,7 +1253,7 @@ margin-bottom: 0;
 }
 .e30-32>.x-row-inner>*:nth-child(1n - 0) {
   flex-basis: calc(100% - 4%);
-}
+ }
 }
 
 @media (min-width:480px) and (max-width:766.98px) {
@@ -1513,7 +1513,9 @@ border-color: #ffffff;
 background-color: #ffffff;
 }
 
-@media (max-width:979px) {}
+@media (max-width:979px) {
+	
+}
 
 html {
 font-size: 14px;
@@ -1522,7 +1524,7 @@ font-size: 14px;
 @media (min-width:480px) {
 html {
 font-size: 14px;
-}
+ }
 }
 
 @media (min-width:767px) {
@@ -1554,18 +1556,9 @@ background-color: #421f4a;
 font-weight: 300 !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
+h1,h2,h3,h4,
+h5,h6,.h1,.h2,
+.h3,.h4,.h5,.h6 {
 font-family: "Quicksand", sans-serif;
 font-style: normal;
 font-weight: 400;
@@ -1650,31 +1643,11 @@ textarea {
 font-family: "Lato", sans-serif;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6,
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a,
-.h1 a,
-.h2 a,
-.h3 a,
-.h4 a,
-.h5 a,
-.h6 a,
-blockquote {
+h1,h2,h3,h4,h5,h6,.h1,
+.h2,.h3,.h4,.h5,.h6,h1 a,
+h2 a,h3 a,h4 a,h5 a,h6 a,
+.h1 a,.h2 a,.h3 a,.h4 a,
+.h5 a,.h6 a,blockquote {
 color: #ffffff;
 }
 
@@ -1815,7 +1788,6 @@ left: 265px;
 
 .x-navbar .desktop .x-nav>li ul {
 top: 75px;
-;
 }
 
 .x-colophon.top,
@@ -3796,7 +3768,6 @@ box-shadow: 2px 0 4px rgba(0, 0, 0, 0.275);
                 </div>
               </div>
             </div>
-
             <span id="x-responsive-text-1" data-x-element="responsive_text" data-x-params="{&quot;selector&quot;:&quot;.h-intro .x-text-content-text-primary&quot;,&quot;compression&quot;:&quot;0.65&quot;,&quot;minFontSize&quot;:&quot;24px&quot;,&quot;maxFontSize&quot;:&quot;54px&quot;}" ></span>
          </div>
       </div>
