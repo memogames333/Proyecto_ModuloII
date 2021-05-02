@@ -79,7 +79,48 @@ if(!function_exists("img_exist_header")){
 
     }
 }
+if(!function_exists("generate_dt")){
 
+    function generate_dt($model,$colums =  array() ){
+
+        $ci =& get_instance();
+        $input = $ci->input->post();
+        $ci->load->model($model,"collection_model");
+
+        $draw = intval($input["draw"]);
+        $start = intval($input["start"]);
+        $length = intval($input["length"]);
+
+        $order = $input["order"];
+        $search = $input["search"];
+        $search = $search['value'];
+        $col = 0;
+        $dir = "";
+        if (!empty($order)) {
+            foreach ($order as $o) {
+                $col = $o['column'];
+                $dir = $o['dir'];
+            }
+        }
+
+        if ($dir != "asc" && $dir != "desc") {
+            $dir = "desc";
+        }
+
+        if (!isset($colums[$col])) {
+            $order = null;
+        } else {
+            $order = $colums[$col];
+        }
+        $row = $ci->collection_model->get_collection($order, $search, $colums, $length, $start, $dir);
+        if($row!=NULL){
+            return array("row"=>$row,"draw"=>$draw);
+        }else{
+            return 0;
+        }
+
+    }
+}
 if(!function_exists("image_array")){
     function image_array($array_img  = array())
     {
