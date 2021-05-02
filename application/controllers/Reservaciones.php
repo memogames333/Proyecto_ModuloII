@@ -36,13 +36,13 @@ class Reservaciones extends CI_Controller{
         // code...
         $datax["type"] = "success";
         $datax["title"] = "Exito";
-        $datax["msg"] = "Exito al solicitar reservacion";
+        $datax["msg"] = "Exito al solicitar la reservacion";
       }
       else {
         // code...
         $datax["type"] = "error";
         $datax["title"] = "Error";
-        $datax["msg"] = "Error al solicitar reservacion";
+        $datax["msg"] = "Error al solicitar la reservacion";
       }
       echo json_encode($datax);
 		}
