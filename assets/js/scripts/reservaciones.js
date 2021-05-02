@@ -1,5 +1,6 @@
 var url = base_url+"reservaciones";
 $(document).ready(function(){
+  //alert("aqui");
   $(".fecha").datepicker({ dateFormat: 'yy-mm-dd' });
   $('.tel').mask('0000-0000');
   $(".numeric").numeric({
