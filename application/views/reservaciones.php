@@ -1,11 +1,9 @@
 <form class="" id="form_add" action="" method="post">
   <div class="row">
     <div class="col-lg-2">
-
     </div>
     <div class="col-lg-8">
       <label for="" class="label_reservaciones margin_top">Formulario de Reservaciones</label>
-
       <div class="form-group">
         <label for="" class="label_reservaciones">Nombre Completo</label>
         <input type="text" class="form-control" name="nombre" placeholder="Ingrese su nombre completo" value="">
@@ -40,7 +38,6 @@
 </form>
 <link rel="stylesheet" href="<?=base_url("assets/css/toastr.css")?>">
 <link href="<?= base_url("assets/libs/datapicker/bootstrap-datepicker.min.css"); ?>" rel="stylesheet">
-
 <script>var base_url = '<?php echo base_url() ?>'</script>
 <script src="<?php echo base_url("assets/js/jquery-3.1.1.min.js"); ?>"></script>
 <script src="<?php echo base_url("assets/js/bootstrap.js"); ?>"></script>
@@ -49,7 +46,5 @@
 <script src="<?= base_url("assets/libs/datapicker/bootstrap-datepicker.min.js"); ?>"></script>
 <script src="<?= base_url("assets/libs/mask/jquery.mask.min.js"); ?>"></script>
 <script src="<?= base_url("assets/libs/numeric/jquery.numeric.js"); ?>"></script>
-
 <script type="text/javascript" src="<?=base_url()?>assets/js/scripts/reservaciones.js">
-
 </script>
