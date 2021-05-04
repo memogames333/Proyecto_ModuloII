@@ -4,14 +4,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
 ?>
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="<?php echo base_url("assets/img/logofav.png"); ?>" rel="icon" type="image/png">
-
   <title>Taqueria Sosa</title>
-
   <link href="<?php echo base_url("assets/css/bootstrap.min.css"); ?>" rel="stylesheet">
   <link href="<?php echo base_url("assets/libs/mdi/css/materialdesignicons.min.css"); ?>" rel="stylesheet">
 
@@ -22,7 +19,6 @@ defined('BASEPATH') or exit('No direct script access allowed');
   <link href="<?php echo base_url(""); ?>assets/css/style.css" rel="stylesheet">
 
 </head>
-
 <body class="gray-bg">
   <!--<div class="loginColumns animated fadeInDown">
     <div class="row">
@@ -55,7 +51,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
     </div>
     <div class="row">
       <hr>
-      <p class="text-muted">Open Solutions Systems - Copyright</p>
+      <p class="text-muted">Neko Systems - Copyright</p>
     </div>
   </div>-->
   <div class="loginColumns animated fadeInDown">
